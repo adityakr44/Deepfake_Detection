@@ -2,4 +2,11 @@ test_videos
 train_sample_videos
 dataset
 DFDC.ipynb
-deepfake-detection-model.h5
+deepfake-detection-model.hdf5
+weights
+checkpoints
+.ipynb_checkpoints
+1frame
+140k
+1framedfd
+models
